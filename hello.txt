@@ -11,3 +11,4 @@ update by test
 update by dev
 update by remote
 update by remote
+update by local
